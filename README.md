@@ -35,7 +35,7 @@ The CSS file styles the web app, ensuring a clean and user-friendly interface. I
 
 ### JavaScript
 
-The JavaScript file adds functionality to the web app, including adding new tasks, marking tasks as completed, and deleting tasks. It uses event listeners to handle user interactions and updates the DOM accordingly.
+The JavaScript file adds functionality to the web app, including adding new tasks, marking tasks as completed, and deleting tasks. It uses event listeners to handle user interactions and updates the DOM accordingly. It includes 2 phases one is that the tasks are stored in local storage which I comment due to hosting on github. If this project run on computer or PC then for the local storage the line 8 & 45 in script.js file should be uncomment  and line 11 will be commented.
 
 
 ## Contributing
