@@ -22,19 +22,6 @@ Check out the live demo [here](https://abdulmoizqureshi-2640.github.io/LGMVIP-We
 - **JavaScript**: For adding interactivity to the web page.
 - **Bootstrap Icons**: For icons used in the app.
 
-## How to Use
-
-1. **Clone the repository**:
-    \`\`\`bash
-    git clone https://github.com/yourusername/your-repository.git
-    \`\`\`
-
-2. **Open the project folder**:
-    \`\`\`bash
-    cd your-repository
-    \`\`\`
-
-3. **Open \`index.html\` in your browser** to view the app.
 
 ## Code Overview
 
@@ -50,27 +37,8 @@ The CSS file styles the web app, ensuring a clean and user-friendly interface. I
 
 The JavaScript file adds functionality to the web app, including adding new tasks, marking tasks as completed, and deleting tasks. It uses event listeners to handle user interactions and updates the DOM accordingly.
 
-## File Structure
-
-\`\`\`plaintext
-.
-├── index.html
-├── style.css
-├── script.js
-├── ii.png
-├── cardbg.png
-└── check.svg
-\`\`\`
-
-- \`index.html\`: The main HTML file.
-- \`style.css\`: The CSS file for styling the app.
-- \`script.js\`: The JavaScript file for app functionality.
-- \`ii.png\`, \`cardbg.png\`, \`check.svg\`: Image assets used in the app.
 
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to create an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License.
